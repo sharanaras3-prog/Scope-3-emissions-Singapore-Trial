@@ -1,0 +1,11 @@
+{
+  "hub": "Singapore",
+  "total_scope3_tco2e": 81841.5,
+  "total_procurement_spend_usd": 39117506.0,
+  "active_suppliers": 20,
+  "shipments_monitored": 40,
+  "vessels_tracked": 26,
+  "carbon_reduction_opportunities": 4,
+  "primary_hotspot": "Transshipment",
+  "main_opportunity": "Route optimization"
+}

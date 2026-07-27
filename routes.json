@@ -1,0 +1,146 @@
+[
+  {
+    "month": "2025-02",
+    "scope3_tco2e": 41700.3,
+    "transport_pct": 45.9,
+    "procurement_pct": 40.0,
+    "packaging_pct": 8.3,
+    "other_pct": 6.3
+  },
+  {
+    "month": "2025-03",
+    "scope3_tco2e": 43284.1,
+    "transport_pct": 44.4,
+    "procurement_pct": 34.4,
+    "packaging_pct": 8.8,
+    "other_pct": 8.1
+  },
+  {
+    "month": "2025-04",
+    "scope3_tco2e": 44485.0,
+    "transport_pct": 47.5,
+    "procurement_pct": 37.6,
+    "packaging_pct": 6.9,
+    "other_pct": 6.9
+  },
+  {
+    "month": "2025-05",
+    "scope3_tco2e": 46071.6,
+    "transport_pct": 41.9,
+    "procurement_pct": 31.6,
+    "packaging_pct": 11.6,
+    "other_pct": 9.9
+  },
+  {
+    "month": "2025-06",
+    "scope3_tco2e": 46857.6,
+    "transport_pct": 47.9,
+    "procurement_pct": 36.3,
+    "packaging_pct": 8.4,
+    "other_pct": 6.9
+  },
+  {
+    "month": "2025-07",
+    "scope3_tco2e": 46737.7,
+    "transport_pct": 51.1,
+    "procurement_pct": 36.7,
+    "packaging_pct": 7.0,
+    "other_pct": 7.4
+  },
+  {
+    "month": "2025-07",
+    "scope3_tco2e": 46543.4,
+    "transport_pct": 50.5,
+    "procurement_pct": 32.7,
+    "packaging_pct": 7.4,
+    "other_pct": 8.6
+  },
+  {
+    "month": "2025-08",
+    "scope3_tco2e": 44643.3,
+    "transport_pct": 38.6,
+    "procurement_pct": 39.5,
+    "packaging_pct": 5.6,
+    "other_pct": 9.5
+  },
+  {
+    "month": "2025-09",
+    "scope3_tco2e": 44933.9,
+    "transport_pct": 48.5,
+    "procurement_pct": 30.6,
+    "packaging_pct": 10.8,
+    "other_pct": 5.6
+  },
+  {
+    "month": "2025-10",
+    "scope3_tco2e": 44820.6,
+    "transport_pct": 41.8,
+    "procurement_pct": 29.3,
+    "packaging_pct": 10.2,
+    "other_pct": 5.4
+  },
+  {
+    "month": "2025-11",
+    "scope3_tco2e": 42508.9,
+    "transport_pct": 50.7,
+    "procurement_pct": 30.7,
+    "packaging_pct": 6.6,
+    "other_pct": 4.6
+  },
+  {
+    "month": "2025-12",
+    "scope3_tco2e": 41399.2,
+    "transport_pct": 44.6,
+    "procurement_pct": 36.2,
+    "packaging_pct": 6.0,
+    "other_pct": 9.8
+  },
+  {
+    "month": "2026-01",
+    "scope3_tco2e": 43074.2,
+    "transport_pct": 40.2,
+    "procurement_pct": 35.8,
+    "packaging_pct": 11.2,
+    "other_pct": 6.9
+  },
+  {
+    "month": "2026-02",
+    "scope3_tco2e": 43341.5,
+    "transport_pct": 48.6,
+    "procurement_pct": 31.4,
+    "packaging_pct": 7.0,
+    "other_pct": 4.4
+  },
+  {
+    "month": "2026-03",
+    "scope3_tco2e": 44117.0,
+    "transport_pct": 47.1,
+    "procurement_pct": 30.8,
+    "packaging_pct": 10.2,
+    "other_pct": 9.1
+  },
+  {
+    "month": "2026-04",
+    "scope3_tco2e": 41747.4,
+    "transport_pct": 50.9,
+    "procurement_pct": 33.0,
+    "packaging_pct": 10.9,
+    "other_pct": 9.6
+  },
+  {
+    "month": "2026-05",
+    "scope3_tco2e": 39373.7,
+    "transport_pct": 49.7,
+    "procurement_pct": 37.5,
+    "packaging_pct": 6.3,
+    "other_pct": 8.5
+  },
+  {
+    "month": "2026-06",
+    "scope3_tco2e": 40594.5,
+    "transport_pct": 42.1,
+    "procurement_pct": 28.4,
+    "packaging_pct": 7.1,
+    "other_pct": 7.6
+  }
+]

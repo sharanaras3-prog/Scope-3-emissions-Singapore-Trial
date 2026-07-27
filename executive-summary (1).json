@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Sea-air corridor opportunity",
+    "detail": "Shifting 15% of Jeddah-origin urgent cargo to sea-air via Dubai South could reduce lead time by 4 days at comparable emissions cost.",
+    "impact": "High",
+    "category": "Procurement"
+  },
+  {
+    "title": "Supplier ESG gap",
+    "detail": "Steel & Metals suppliers account for 34% of Dubai hub Scope 3 emissions despite only 19% of spend \u2014 priority for engagement.",
+    "impact": "High",
+    "category": "Supplier ESG"
+  },
+  {
+    "title": "PO consolidation",
+    "detail": "Consolidating purchase orders across 4 GCC distribution suppliers could reduce shipment count by ~22% without inventory risk.",
+    "impact": "Medium",
+    "category": "Procurement"
+  },
+  {
+    "title": "Predictive delay alert",
+    "detail": "Red Sea corridor risk flagged \u2014 reroute contingency via Cape recommended for 2 active shipments.",
+    "impact": "High",
+    "category": "Risk"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "hub": "Dubai",
+  "total_scope3_tco2e": 118073.5,
+  "total_procurement_spend_usd": 43044852.0,
+  "active_suppliers": 20,
+  "shipments_monitored": 40,
+  "vessels_tracked": 26,
+  "carbon_reduction_opportunities": 4,
+  "primary_hotspot": "Procurement",
+  "main_opportunity": "Supplier decarbonization"
+}
